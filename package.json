@@ -2,7 +2,7 @@
   "name": "portfolio-page",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/codesignerTM/React-portfolio-page",
+  "homepage": "https://codesignerTM.github.io/me",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
